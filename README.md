@@ -62,7 +62,7 @@
   <a href="https://github.com/saminCSE/"><img alt="Samin Yeasar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saminCSE&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
   
 <p align= "center">
-  <img height= "190" src="https://github-readme-stats.vercel.app/api?username=saminCSE&disable_animations=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&rank_icon=github&bg_color=0D1117" />
+  <img height= "190" src="https://github-readme-stats.vercel.app/api?username=saminCSE&disable_animations=true&show_icons=true&count_private=true&theme=radical&hide_border=true&rank_icon=github&bg_color=0D1117" />
   <img height= "190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saminCSE&disable_animations=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
 </p>
   <br/>
