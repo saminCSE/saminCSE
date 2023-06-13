@@ -43,24 +43,37 @@
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/saminCSE">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Samin Yeasar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=saminCSE&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p> -->
+    
+<p align="center">
+    <a href="https://github.com/saminCSE">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=saminCSE&disable_animations=true&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/saminCSE/"><img alt="Samin Yeasar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saminCSE&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/saminCSE/"><img alt="Samin Yeasar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saminCSE&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<!--     <a href="https://github.com/saminCSE/"><img alt="Samin Yeasar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saminCSE&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/saminCSE/"><img alt="Samin Yeasar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saminCSE&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
+  
+<p align= "center">
+  <img height= "190" src="https://github-readme-stats.vercel.app/api?username=saminCSE&disable_animations=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&rank_icon=github&bg_color=0D1117" />
+  <img height= "190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saminCSE&disable_animations=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+</p>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
 <br/>
 <br/>
 
-<a href="https://github.com/saminCSE/github-readme-activity-graph"><img alt="Samin Yeasar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saminCSE&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/saminCSE/github-readme-activity-graph"><img alt="Samin Yeasar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saminCSE&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saminCSE&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <br/>
