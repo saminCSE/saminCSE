@@ -73,7 +73,7 @@
 
 <!-- <a href="https://github.com/saminCSE/github-readme-activity-graph"><img alt="Samin Yeasar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saminCSE&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saminCSE&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saminCSE&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <br/>
 <br/>
