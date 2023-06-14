@@ -182,11 +182,11 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/saminCSE">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=saminCSE&disable_animations=true&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-</p>
+</p> -->
 
   <!-- <br/>
     <a href="https://github.com/saminCSE/"><img alt="Samin Yeasar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saminCSE&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -205,10 +205,38 @@
   <img height= "190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saminCSE&theme=react&layout=compact" />
 </p> -->
 
-<p align= "center">
+<!-- <p align= "center">
   <img height= "190" src="https://github-readme-stats.vercel.app/api?username=saminCSE&disable_animations=true&show_icons=true&count_private=true&theme=radical&hide_border=true&rank_icon=github&bg_color=0D1117" />
   <img height= "190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saminCSE&disable_animations=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-</p>
+</p> -->
+
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=saminCSE&disable_animations=true&theme=radical&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&rank_icon=github" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=saminCSE&disable_animations=true&theme=radical&hide_border=true&background=0D1117&stroke=0000" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saminCSE&disable_animations=true&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=10&bg_color=0D1117"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=saminCSE&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (end) -->
 
 <!-- <br/>
 <br/> -->
@@ -224,9 +252,9 @@
 
 <!-- ## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80"> -->
 
-## <b> Let's Connect..!</b><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZiZDlmZTRlYTVjMDYyMjcxMGMwYTBiYzVhY2E4YTgxYmMwZDc5NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/VdTSU4eocgxsfcYEsW/giphy.gif" width ="80">
+<div align=center>
 
-<p align="left">
+## <b> Connect with me</b><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZiZDlmZTRlYTVjMDYyMjcxMGMwYTBiYzVhY2E4YTgxYmMwZDc5NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/VdTSU4eocgxsfcYEsW/giphy.gif" width ="80">
 
 <a href = "https://www.linkedin.com/in/samin-yeasar-dev/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/saminyeasar2/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
@@ -234,7 +262,7 @@
 <a href = ""><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = ""><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
-</p>
+</div>
 
 <!-- ## 🐍 A Snake Eating my Contributions Graph -->
 
@@ -250,7 +278,7 @@
 
 <!-- ## ❤ Views and Followers -->
 
-<div align="right">
+<div align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=saminCSE">
 </a>
