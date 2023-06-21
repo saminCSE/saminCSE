@@ -22,9 +22,10 @@
   <source media="(max-width: 767px)" srcset="">
   <img align="right" alt="" src="https://svgshare.com/i/uAF.svg" width=350px, height=370px>
 </picture> -->
-<p>
+<!-- <p>
 <img align="right" alt="samin-CSE" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzNheXJ1cHBwMGlwM3czc251d2NzMGdraXJ0cDRtenYzeW11cGFxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/onirBMcbwaQSOgGPpL/giphy.gif">
-</p>
+</p> -->
+<p><img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxlbHZoZDFqY285NzU3dGplczZqc3FzdHpzOWwzdmIzMmhsbWtraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CXNOdAwiw1L1xW0AsQ/giphy.gif" alt="samin-CSE" /></p>
 
 <!-- - 🏅 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
