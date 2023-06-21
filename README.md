@@ -18,10 +18,13 @@
   <source media="(max-width: 767px)" srcset="">
   <img align="right" alt="" src="./assets/mdImages/programming.svg" width=350px, height=290px>
 </picture> -->
-<picture>
+<!-- <picture>
   <source media="(max-width: 767px)" srcset="">
   <img align="right" alt="" src="https://svgshare.com/i/uAF.svg" width=350px, height=370px>
-</picture>
+</picture> -->
+<p>
+<img align="right" alt="samin-CSE" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzNheXJ1cHBwMGlwM3czc251d2NzMGdraXJ0cDRtenYzeW11cGFxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/onirBMcbwaQSOgGPpL/giphy.gif">
+</p>
 
 <!-- - 🏅 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
