@@ -224,7 +224,7 @@
   
   <img align="center"  src="https://github-readme-stats-fast.vercel.app/api?username=saminCSE&disable_animations=true&theme=radical&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&rank_icon=github" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=saminCSE&disable_animations=true&theme=radical&hide_border=true&background=0D1117&stroke=0000" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-stats-fast.vercel.app/api/streak?username=saminCSE&theme=radical&disable_animations=true&hide_border=true&bg_color=0D1117" /> 
 </td>
 
 <td width="50%" align="center">
