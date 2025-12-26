@@ -251,9 +251,12 @@
 <!-- <br/>
 <br/> -->
 
-<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saminCSE&disable_animations=true&theme=xcode&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
-<!-- <a href="https://github.com/saminCSE/github-readme-activity-graph"><img alt="Samin Yeasar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saminCSE&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saminCSE/saminCSE/output/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saminCSE/saminCSE/output/dist/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/saminCSE/saminCSE/output/dist/github-snake.svg" width="100%">
+</picture>
 
 <!-- <br/>
 <br/> -->
