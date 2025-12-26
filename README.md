@@ -29,13 +29,13 @@
 
 <!-- - 🏅 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🏅 **Senior Backend Engineer** at Grameen HealthTech Limited
+- 🏅 **`Senior Backend Engineer`** at Grameen HealthTech Limited
 
-- 💼 **5+** years of experience architecting scalable backend systems with NestJS, Node.js, TypeScript, and AWS
+- 💼 **5+** years of experience architecting scalable backend systems with `NestJS`, Node.js, TypeScript, and AWS
 
 - 🎯 Expert in Microservices Architecture, CI/CD Pipelines, Payment Integration, and System Design
 
-- 🏗️ Currently building high-performance healthcare applications (Shukhee, Lifespring, 3Zero Club) serving **2.3M+ users**
+- 🏗️ Currently building high-performance healthcare applications (Shukhee, Lifespring, 3Zero Club) serving **`2.3M+ users`**
 
 - 📊 Key achievements: 10x PDF generation improvement, 40% AWS cost reduction, 70% API performance boost
 
