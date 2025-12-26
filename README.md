@@ -31,23 +31,23 @@
 
 - 🏅 **Senior Backend Engineer** at Grameen HealthTech Limited
 
-- 💼 **5+ years of experience** architecting scalable backend systems with NestJS, Node.js, TypeScript, and AWS
+- 💼 **5+** years of experience architecting scalable backend systems with NestJS, Node.js, TypeScript, and AWS
 
-- 🎯 Expert in **Microservices Architecture, CI/CD Pipelines, Payment Integration, and System Design**
+- 🎯 Expert in Microservices Architecture, CI/CD Pipelines, Payment Integration, and System Design
 
-- 🏗️ Currently building high-performance healthcare applications (**Shukhee, Lifespring, 3Zero Club**) serving **2.3M+ users**
+- 🏗️ Currently building high-performance healthcare applications (Shukhee, Lifespring, 3Zero Club) serving **2.3M+ users**
 
-- 📊 Key achievements: **10x PDF generation improvement, 40% AWS cost reduction, 70% API performance boost**
+- 📊 Key achievements: 10x PDF generation improvement, 40% AWS cost reduction, 70% API performance boost
 
-- 👨‍💼 Leadership experience: **Led backend teams, established coding standards, and mentored junior engineers**
+- 👨‍💼 Leadership experience: Led backend teams, established coding standards, and mentored junior engineers
 
-- 📚 Education: **B.Sc in CSE from United International University** (100% scholarship, 4.00 CGPA)
+<!-- - 📚 Education: **B.Sc in CSE from United International University** (100% scholarship, 4.00 CGPA) -->
 
-- 📫 **samin.cse.bd@gmail.com**
+- 📫 Feel free to reach me out **samin.cse.bd@gmail.com**
 
 <!-- - 🔗 [LinkedIn](https://linkedin.com/in/samin-yeasar-dev) | [GitHub](https://github.com/saminCSE) | [Portfolio](https://samincse.github.io/samin-portfolio/) -->
 
-- 🔗 [LinkedIn](https://linkedin.com/in/samin-yeasar-dev)
+<!-- - 🔗 [LinkedIn](https://linkedin.com/in/samin-yeasar-dev) -->
 
 <!--Intro start-->
 
